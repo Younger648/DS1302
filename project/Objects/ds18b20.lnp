@@ -1,0 +1,8 @@
+".\Objects\main.obj",
+".\Objects\iic.obj",
+".\Objects\onewire.obj",
+".\Objects\head.obj",
+".\Objects\hc138.obj",
+".\Objects\SMG.obj" 
+TO ".\Objects\ds18b20" 
+PRINT(".\Listings\ds18b20.m51") RAMSIZE(256) 

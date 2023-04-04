@@ -1,0 +1,1 @@
+"..\sourse\onewire.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(..\sourse) DEBUG OBJECTEXTEND PRINT(.\Listings\onewire.lst) TABS (2) OBJECT(..\output\onewire.obj)

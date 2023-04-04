@@ -1,0 +1,12 @@
+"..\output\main.obj",
+"..\output\iic.obj",
+"..\output\onewire.obj",
+"..\output\head.obj",
+"..\output\hc138.obj",
+"..\output\SMG.obj",
+"..\output\Timer.obj",
+"..\output\ds18b20.obj",
+"..\output\ds1302.obj",
+"..\output\ds1302gg.obj" 
+TO "..\output\ds18b20" 
+PRINT(".\Listings\ds18b20.m51") RAMSIZE(256) 
